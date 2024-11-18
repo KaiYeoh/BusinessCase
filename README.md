@@ -1,6 +1,6 @@
 # Business Case on Kerang Solar Farm & Battery Storage System Project
 
-**Overview**
+**Overview**<br />
 This project involves designing and planning a renewable energy solution for Victoria, Australia. The Kerang Solar Farm and Battery Storage System aims to enhance energy stability and affordability by constructing a 100 MW solar photovoltaic (PV) farm and a 50 MW battery energy storage system (BESS).
 
 **Key Objectives**
@@ -30,11 +30,20 @@ The project prioritizes environmental sustainability, following ISO standards fo
 
 ## Learning Outcomes
 Through this project, I gained valuable experience in:
-- Renewable Energy System Design: Understanding the key components of solar PV farms and battery storage systems
-- Project Planning and Management: Developing timelines, managing budgets, and stakeholder engagement
-- Environmental Considerations: Applying ISO standards to ensure sustainability and compliance with environmental regulations
-- Collaboration and Teamwork: Working effectively with a team to achieve project objectives
-
+- Project Planning and Management
+    - Timeline development ([gantt chart](url), critical path)
+    - Financial planning (top-down and bottom-up costs, budget)
+    - Calculation of cash flows and NPVs'
+    - Stakeholder engagement (power-interest chart)
+    - Task identification (work breakdown structure)
+- Environmental Considerations
+    - Implementation of UN SDGs' to ensure sustainability
+    - Adherence to ISO standards to ensure compliance with environmental regulations
+- Presentation
+    - Preparation and delivery of multiple types of presentations such as oral, roundtable, and video 
+- Collaboration and Teamwork
+    - Working effectively with a team to achieve project objectives
+    - Maintaining clear and consistent communication between team members to ensure alignment, resolve issues, and keep the project on track
 ## Summary
-This project aims to provide a clean, affordable, and reliable energy solution for Victoria, while also supporting local economic development and sustainability goals.
+This project aims to provide us (students) with an understanding of how to develop an engineering project report. This includes learning key aspects such as preliminary assessments and project proposal, in-detailed project planning, time and cost estimation methodologies, risk assessment, and sustainability considerations. The project simulates a real-world engineering environment, enabling us (students) to gain hands-on experience in managing different phases of a project, from conception to completion, while ensuring alignment with industry standards and best practices.
 
