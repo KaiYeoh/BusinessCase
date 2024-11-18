@@ -10,7 +10,7 @@ Through the Kerang Solar Farm and Battery Storage System project, I have acquire
     - Calculated cash flows and Net Present Values (NPVs) to assess project feasibility
     - Engaged stakeholders effectively by employing tools such as the Power-Interest (PI) Chart to manage and prioritize stakeholder needs
     - Identified tasks and organized work through the development of a Work Breakdown Structure (WBS)
-- Environmental Considerations
+- Environmental Consideration
     - Implemented principles aligned with the United Nations Sustainable Development Goals (UN SDGs) to ensure project sustainability
     - Ensured adherence to ISO standards to maintain compliance with environmental regulations and best practices
 - Presentation
