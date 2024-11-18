@@ -5,7 +5,7 @@ This project aims to provide us (students) with an understanding of how to devel
 ## Learning Outcomes
 Through the Kerang Solar Farm and Battery Storage System project, I have acquired experience in several critical areas of engineering and project management:
 - Project Planning and Management
-    - Developed detailed project timelines, utilizing tools such as Gantt charts and Critical path analysis
+    - Developed detailed project timelines, utilizing tools such as Gantt charts, Network diagrams, and Critical path analysis
     - Conducted comprehensive financial planning, including top-down and bottom-up cost estimation and budget allocation
     - Calculated cash flows and Net Present Values (NPVs) to assess project feasibility
     - Engaged stakeholders effectively by employing tools such as the Power-Interest (PI) Chart to manage and prioritize stakeholder needs
