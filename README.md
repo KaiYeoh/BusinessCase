@@ -17,7 +17,7 @@ Through the Kerang Solar Farm and Battery Storage System project, I have acquire
     - Prepared and delivered various types of presentations, including oral, roundtable, and video formats, to communicate the project to different audiences
 - Collaboration and Teamwork
     - Worked efficiently within a team to achieve project objectives and deliver results within the designated time frame
-    - Maintained clear and consistent communication between team members to ensure alignment, effectively resolve challenges, and keep the projec on track.
+    - Maintained clear and consistent communication between team members to ensure alignment, effectively resolve challenges, and keep the project on track.
 
 
 ## Project Summary
